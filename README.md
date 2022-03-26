@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @muhammedhsynli
 - 👀 I’m interested in #
-- 🌱 I’m currently learning HTML,CSS,Java,Python
+- 🌱 I’m currently learning HTML,CSS,Javascript,React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
